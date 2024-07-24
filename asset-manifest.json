@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/restaurant_app/static/css/main.eb9bc4cd.css",
+    "main.js": "/restaurant_app/static/js/main.f6cc8051.js",
+    "static/js/453.cdeb3832.chunk.js": "/restaurant_app/static/js/453.cdeb3832.chunk.js",
+    "static/media/logo.png": "/restaurant_app/static/media/logo.121411d0037b3c956dff.png",
+    "static/media/profile1.jpg": "/restaurant_app/static/media/profile1.e973e4f254d0530a2936.jpg",
+    "static/media/empty_cart.png": "/restaurant_app/static/media/empty_cart.cd3337f7977b0194ba2d.png",
+    "static/media/profile3.jfif": "/restaurant_app/static/media/profile3.e1cce85ea6c3806d5c24.jfif",
+    "static/media/profile2.jfif": "/restaurant_app/static/media/profile2.a4c36ed1be346dcc8a19.jfif",
+    "static/media/logo.svg": "/restaurant_app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/restaurant_app/index.html",
+    "main.eb9bc4cd.css.map": "/restaurant_app/static/css/main.eb9bc4cd.css.map",
+    "main.f6cc8051.js.map": "/restaurant_app/static/js/main.f6cc8051.js.map",
+    "453.cdeb3832.chunk.js.map": "/restaurant_app/static/js/453.cdeb3832.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eb9bc4cd.css",
+    "static/js/main.f6cc8051.js"
+  ]
+}
