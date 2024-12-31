@@ -143,7 +143,7 @@ function MyCart() {
 						</div>
 					</div>
 				) : (
-					<div style={{height:'500px',display:'flex',maxWidth:'600px',flexDirection:'column',alignItems:'center',justifyContent:'center',alignSelf:'center',marginBottom:'30px'}}>
+					<div style={{height:'500px',display:'flex',maxWidth:'600px',flexDirection:'column',alignItems:'center',justifyContent:'center',alignSelf:'center',marginBottom:'30px',marginLeft:'auto',marginRight:'auto'}}>
 						<img src={emptycart} alt="" style={{height:'100%',width:'100%',objectFit:'contain'}} />
 						<h1 className='font-bold text-center'>No Items Added</h1>
 					</div>
